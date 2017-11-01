@@ -268,7 +268,7 @@ function toggleMenuOldTheme() { //The commented code is for the page responding 
 }
 
 function setPage(newLocation) {
-	window.location.href =  '/beta1/' + newLocation;
+	window.location.href =  '/beta/' + newLocation;
 }
 
 function simulateOverlay() {
